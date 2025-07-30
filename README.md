@@ -13,7 +13,3 @@ Dit materiaal is uitgewerkt voor Windows. Als je gebruik maakt van een Mac, kan 
 Veel lees- en oefenplezier!
 
 De lectoren van de opleiding Programmeren
-
-{% embed url="https://v-nys.github.io/" %}
-
-{% embed url="https://v-nys.github.io/" fullWidth="true" %}
